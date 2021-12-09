@@ -1,4 +1,5 @@
 #! /bin/sh
+#Bash script to replace your name with husband name"
 echo "enter your name"
 read a
 #a=$1
